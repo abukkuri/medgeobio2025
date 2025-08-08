@@ -2,3 +2,4 @@ streamlit==1.26.0
 numpy
 matplotlib
 scipy
+pillow>=10.0.0
